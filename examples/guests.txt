@@ -1,0 +1,17 @@
+# Guest list for the spring reunion. One name per line.
+# Lines starting with # and blank lines are ignored.
+
+John Smith
+Jon Smyth
+Smith, John
+Mary Lee
+Maria Lee
+Philip Fisher
+Phillip Fischer
+Catherine Brown
+Katharine Browne
+Robert Pfister
+Ann Taylor
+ann  taylor
+Zoë Müller
+Zoe Muller
